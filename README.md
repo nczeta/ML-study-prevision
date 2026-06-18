@@ -1,10 +1,10 @@
-# study_prevision
+# Study Prevision
 
 A machine learning project that predicts your exam grade based on your study habits.
 
 ## Description
 
-Given a few inputs — hours studied, stress level, subject, and study method — the model predicts a grade between 0 and 10. Two different models are compared: a **Linear Regression** and a **Decision Tree Regressor**, with the linear regression performing slightly better.
+Given a few inputs, hours studied, stress level, subject, and study method, the model predicts a grade between 0 and 10. Two different models are compared: a **Linear Regression** and a **Decision Tree Regressor**, with the linear regression performing slightly better.
 
 ## Project Structure
 
