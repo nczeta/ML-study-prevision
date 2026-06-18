@@ -23,8 +23,6 @@ study_prevision/
 │   ├── data_exploration.ipynb    # Dataset exploration and feature analysis
 │   └── comparison.ipynb          # Model comparison and error analysis
 │
-├── README.md
-│
 └── requirements.txt
 ```
 
